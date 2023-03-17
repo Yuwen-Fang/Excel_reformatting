@@ -55,7 +55,6 @@ for i in range(len(df)):
         'font_size':'14',
         'bold': True, 
         'border':2
-
     })
 
     title_format_1 = workbook.add_format({
@@ -138,7 +137,7 @@ for i in range(len(df)):
 
 
     #----- merge cells -------------------------------------------
-    worksheet.merge_range('A1:I1', '文青水園水資源回收中心巡查紀錄表', title_format)
+    worksheet.merge_range('A1:I1', '水資源回收中心巡查紀錄表', title_format)
     worksheet.merge_range('C2:I2', ' ')
     worksheet.merge_range('A6:A10', '鼓風機室', title_format_1)
     worksheet.merge_range('A11:A12', '膜濾池(一)', title_format_1)
