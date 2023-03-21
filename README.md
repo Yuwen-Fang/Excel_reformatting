@@ -6,3 +6,6 @@ It will show you how to reformat the Excel to the format as specified.
 
 ## After running the code
 <img src="https://github.com/Yuwen-Fang/Excel_reformatting/blob/main/new_format.jpg?raw=true"/>
+
+- - - -
+Have a good day. :bug:
